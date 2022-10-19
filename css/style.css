@@ -1,0 +1,26 @@
+h1 {
+  font-family: "Roboto", sans-serif;
+}
+
+h2 {
+  font-family: "Rubik", sans-serif;
+  margin-bottom: 40px;
+}
+
+.splash {
+  display: flex;
+  justify-content: center;
+  margin-top: 110px;
+}
+
+p {
+  font-family: "Barlow", sans-serif;
+  letter-spacing: 1px;
+  margin-bottom: 40px;
+}
+
+span {
+  font-style: italic;
+}
+
+/*# sourceMappingURL=data:application/json;base64,eyJ2ZXJzaW9uIjozLCJzb3VyY2VzIjpbIi4uL3Nhc3Mvc3R5bGUuc2NzcyIsInN0eWxlLmNzcyJdLCJuYW1lcyI6W10sIm1hcHBpbmdzIjoiQUFBQTtFQUNFLGlDQUFBO0FDQ0Y7O0FERUE7RUFDRSxnQ0FBQTtFQUNBLG1CQUFBO0FDQ0Y7O0FERUE7RUFDRSxhQUFBO0VBQ0EsdUJBQUE7RUFDQSxpQkFBQTtBQ0NGOztBREVBO0VBQ0UsaUNBQUE7RUFDQSxtQkFBQTtFQUNBLG1CQUFBO0FDQ0Y7O0FERUE7RUFDRSxrQkFBQTtBQ0NGIiwiZmlsZSI6InN0eWxlLmNzcyJ9 */
